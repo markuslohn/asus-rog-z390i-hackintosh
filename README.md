@@ -80,7 +80,11 @@ sudo kextload -v *.kext
 <details>
 <summary>Details</summary>
 
-TODO: Add pictures
+![](images/setup-1.jpeg)
+
+![](images/setup-2.jpeg)
+
+![](images/setup-3.jpeg)
 
 </details>
 
