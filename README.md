@@ -13,9 +13,9 @@ I used this guides as starting point:
 
 Current Versions:
 
-Current macOS version: macOS Catalina 10.15.7. 
-Current OpenCore version: 0.6.8. 
-Current BIOS version: 2812. 
+- Current macOS version: macOS Catalina 10.15.7
+- Current OpenCore version: 0.6.8. 
+- Current BIOS version: 2812. 
 
 ## Hardware
 <details>
