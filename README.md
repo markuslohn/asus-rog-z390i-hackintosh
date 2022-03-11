@@ -13,9 +13,18 @@ I used this guides as starting point:
 
 Current Versions:
 
-- Current macOS version: macOS Catalina 10.15.7
-- Current OpenCore version: 0.6.8. 
+- Current macOS version: macOS Monterey 12.2.1
+- Current OpenCore version: 0.7.9 
 - Current BIOS version: 2812. 
+
+## Upgrades
+<details>
+<summary>Details</summary>
+
+- [Description of the upgrade from OpenCore 0.7.9 and macOS Monterey](./docs/upgrade-to-macos-monterey.md)
+
+
+</details>
 
 ## Hardware
 <details>
@@ -52,7 +61,8 @@ daskeyboard  | A mechanical keyboard for Mac power-users
 - iPhoto
 - iMovie
 - Virtualization with Oracle VirtualBox and Docker
-- Webcam with iPhone 7 and EpocCam HD app
+- Webcam with iPhone 11 and EpocCam HD app
+- Webcam external via USB
 
 </details>
 
@@ -60,7 +70,7 @@ daskeyboard  | A mechanical keyboard for Mac power-users
 <details>
 <summary>Details</summary>
 
-- Upgrade to OpenCore 0.6.8 was easy when using the tools OpenCore Configurator and OC_Gen-X (see section tools below).
+- Upgrade to OpenCore 0.7.9 was easy when using the tools OpenCore Configurator and OC_Gen-X (see section tools below).
 - With using OpenIntelWireless I am also able to use the internal Wireless and Bluetooth capabilities.
 - I would recommend to use this tools instead of do the manual way.
 - First try your new configuration on a USB stick before finally moving the configuration to the EFIT "final" partition.
@@ -130,7 +140,7 @@ Tools and commands needed to setup and configure a Hackintosh:
 <details>
 <summary>Details</summary>
 
-- [IntelBluetoothFirmware] (https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
     IntelBluetoothFirmware is a Kernel Extension that uploads Intel Wireless Bluetooth Firmware to provide native Bluetooth in macOS
 
 - [tonymacx86: resources and help to build an hackintosh](https://www.tonymacx86.com/:)

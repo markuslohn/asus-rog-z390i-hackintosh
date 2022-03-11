@@ -1,4 +1,4 @@
-# Upgrade to MacOS Monterey
+# Upgrade to macOS Monterey
 
 ## Upgrade OpenCore from 0.6.9 to 0.7.9
 
@@ -54,13 +54,17 @@
 
 - Check the configuration using mentu Tools > Confic Checker
 
-    ![](../images/MacOS-Monterey-Update-08.png)
-
+    ![](../images/MacOS-Monterey-Update-09.png) 
 
 - Test system startup with the USB drive. When everything is working copy the EFI-partition from the USB drive to the hard drive of your
 computer. Afterwards restart your computer.
 
 
+## Upgrade MacOS
+
+![](../images/MacOS-Monterey-Update-10.png)
+
+After upgrading MacOS restart your computer und everything should work as expected.
 
 ## Tools
 
@@ -68,6 +72,6 @@ computer. Afterwards restart your computer.
 
 ## References
 
-- [Updating OpenCore, kexts and macOS] (https://dortania.github.io/OpenCore-Post-Install/universal/update.html#updating-opencore)
+- [Updating OpenCore, kexts and macOS](https://dortania.github.io/OpenCore-Post-Install/universal/update.html#updating-opencore)
 
 
