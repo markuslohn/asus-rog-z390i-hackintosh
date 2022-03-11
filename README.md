@@ -130,6 +130,9 @@ Tools and commands needed to setup and configure a Hackintosh:
 <details>
 <summary>Details</summary>
 
+- [IntelBluetoothFirmware] (https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+    IntelBluetoothFirmware is a Kernel Extension that uploads Intel Wireless Bluetooth Firmware to provide native Bluetooth in macOS
+
 - [tonymacx86: resources and help to build an hackintosh](https://www.tonymacx86.com/:)
 
 - [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
