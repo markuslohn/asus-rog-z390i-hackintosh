@@ -21,7 +21,8 @@ Current Versions:
 <details>
 <summary>Details</summary>
 
-- [Description of the upgrade from OpenCore 0.7.9 and macOS Monterey](../docs/upgrade-to-macos-monterey.md)
+- [Description of the upgrade from OpenCore 0.7.9 and macOS Monterey](./docs/upgrade-to-macos-monterey.md)
+
 
 </details>
 
