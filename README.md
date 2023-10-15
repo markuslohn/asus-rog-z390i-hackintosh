@@ -13,8 +13,8 @@ I used this guides as starting point:
 
 Current Versions:
 
-- Current macOS version: macOS Monterey 12.2.1
-- Current OpenCore version: 0.7.9 
+- Current macOS version: macOS Sonoma 14.0
+- Current OpenCore version: 0.9.5
 - Current BIOS version: 2812. 
 
 ## Upgrades
@@ -23,6 +23,7 @@ Current Versions:
 
 - [Description of the upgrade from OpenCore 0.7.9 and macOS Monterey](./docs/upgrade-to-macos-monterey.md)
 
+- For the upgrade to OpenCore 0.9.5 and macOS Sonoma I do exactly the same steps as described in the upgrade to OpenCore 0.7.9 and macOS Monterey. No special other step was required.
 
 </details>
 
