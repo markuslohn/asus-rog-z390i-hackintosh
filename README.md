@@ -14,7 +14,7 @@ I used this guides as starting point:
 Current Versions:
 
 - Current macOS version: macOS Sonoma 14.0
-- Current OpenCore version: 0.9.5
+- Current OpenCore version: 0.9.6
 - Current BIOS version: 2812. 
 
 ## Upgrades
